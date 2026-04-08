@@ -33,29 +33,11 @@ Primary work involves Java-based microservices, Spring ecosystem projects, front
 
 ## Featured Repositories
 
-### [javacode](https://github.com/xprocon/javacode)
-Java project collection  
-![Stars](https://img.shields.io/github/stars/xprocon/javacode?style=flat-square&color=58A6FF)
-
-### [procon](https://github.com/xprocon/procon)
-Personal microservices project  
-![Stars](https://img.shields.io/github/stars/xprocon/procon?style=flat-square&color=58A6FF)
-
 ### [procon-parent-pom](https://github.com/xprocon/procon-parent-pom)
 Parent POM for unified dependency management across projects  
 ![Stars](https://img.shields.io/github/stars/xprocon/procon-parent-pom?style=flat-square&color=58A6FF)
 
-### [blog-web](https://github.com/xprocon/blog-web)
-Vue-based web implementation  
-![Stars](https://img.shields.io/github/stars/xprocon/blog-web?style=flat-square&color=58A6FF)
 
-### [xprocon.github.io](https://github.com/xprocon/xprocon.github.io)
-GitHub Pages blog  
-![Stars](https://img.shields.io/github/stars/xprocon/xprocon.github.io?style=flat-square&color=58A6FF)
-
-### [note-images](https://github.com/xprocon/note-images)
-Notes image assets  
-![Stars](https://img.shields.io/github/stars/xprocon/note-images?style=flat-square&color=58A6FF)
 
 ## Contribution Activity
 
